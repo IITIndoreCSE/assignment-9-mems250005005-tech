@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nODUKb4J)
 # Assignment_09
 1. Write a C++ program to define a structure named ‘Item‘ having members ‘id‘ (integer) and ‘cost‘ (float), declare an array of 6 ‘Item‘ structures, initialize the first four elements with sample data, and then use a ‘for‘ loop to iterate through the entire array, displaying the details of any item whose ‘cost‘ is greater than 50.00.
 
